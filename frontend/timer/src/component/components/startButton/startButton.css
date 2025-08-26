@@ -1,0 +1,22 @@
+.start_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+  
+  .start_btn button {
+    padding: 15px 30px;
+    font-size: 24px;
+    cursor: pointer;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+  }
+  
+  .start_btn button:hover {
+    background-color: #45a049;
+  }
+  
